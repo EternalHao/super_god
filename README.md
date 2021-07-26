@@ -1,2 +1,18 @@
 # super_god
-超神
+
+
+
+# stack
+## array
+## linked list
+
+
+# queue
+
+## array
+## linked list
+## block queue
+## cycle queue
+
+
+
