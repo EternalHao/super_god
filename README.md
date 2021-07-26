@@ -3,14 +3,14 @@
 
 
 # stack
-## array
-## linked list
+## array []
+## linked list []
 
 
 # queue
 
-## array
-## linked list
+## array []
+## linked list []
 ## block queue
 ## cycle queue
 
