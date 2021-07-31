@@ -16,7 +16,8 @@
 ## in-order traversal
 ## post-order traversal
 ## stage
-## 
+## find
+## red black tree
 
 # Graph
 ## bfs []
@@ -39,5 +40,7 @@ https://www.youtube.com/watch?v=kPRA0W1kECg
 ## BF
 ## RF
 ## BM
+### https://github.com/BenLangmead/ads1-slides/blob/master/0220_exactmatch__boyer_moore.pdf
 ## KMP []
+### https://www.youtube.com/watch?v=3IFxpozBs2I
 ## 
